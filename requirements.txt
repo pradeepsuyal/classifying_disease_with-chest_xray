@@ -1,6 +1,0 @@
-numpy
-pandas 
-matplotlib
-seaborn
-conda install -c conda-forge opencv
-conda install -c conda-forge tensorflow
